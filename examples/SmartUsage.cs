@@ -13,33 +13,26 @@ namespace NaesungMath.Examples
             double baseSide = 5;
             double height = 10;
             
-            // Before (Manual Formula)
-            double volOld = (1.0/3.0) * (baseSide * baseSide) * height; // Easy to typo constants
-            
-            // After (Function)
+            // After (Function with Named Arguments enforced by style)
             double volNew = Solid3D.SquarePyramidVolume(baseSide: 5, height: 10);
-            
-            Console.WriteLine($"Volume: Old={volOld}, New={volNew}"); // Identical
+            Console.WriteLine($"Volume: {volNew}");
 
-            // 2. Smart Logic (Different Inputs, Same Method)
-            // Scenario: You only have Slant Edge, not Height.
-            double slantEdge = 12;
-            double volSlant = Solid3D.SquarePyramidVolume(baseSide: 5, slantEdge: 12); // Logic auto-switches
+            // 2. Smart Logic (Different Inputs)
+            // Using Slant Edge
+            double volSlant = Solid3D.SquarePyramidVolume(baseSide: 5, slantEdge: 12);
             Console.WriteLine($"Volume from Slant: {volSlant}");
 
-            // 3. Nesting Functions (Real World)
-            // Scenario: Calculate volume of a pyramid where the height is the altitude of an equilateral triangle.
-            double equiSide = 8;
+            // 3. Nesting
+            // Height from Equilateral Triangle
             double complexVol = Solid3D.SquarePyramidVolume(
                 baseSide: 6, 
-                height: Triangle.EquilateralHeight(equiSide) // Nesting
+                height: Triangle.EquilateralHeight(side: 8) // Explicit name
             );
             Console.WriteLine($"Complex Volume: {complexVol}");
             
             // 4. Geometry Chain
-            // Area of Circle + Area of Square
             double totalArea = BasicMath.Add(
-                Circle.Area(radius: 5),
+                Circle.Area(radius: 5), // Single param, explict name good style
                 Quadrilateral.SquareArea(side: 5)
             );
             Console.WriteLine($"Total Combined Area: {totalArea}");
