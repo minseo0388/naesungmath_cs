@@ -1,0 +1,15 @@
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.GeneratedMSBuildEditorConfig.editorconfig
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.AssemblyInfoInputs.cache
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.AssemblyInfo.cs
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.csproj.CoreCompileInputs.cache
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.sourcelink.json
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAll.exe
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAll.deps.json
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAll.runtimeconfig.json
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAll.dll
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAll.pdb
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.dll
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\refint\VerifyAll.dll
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.pdb
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAll.genruntimeconfig.cache
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\ref\VerifyAll.dll

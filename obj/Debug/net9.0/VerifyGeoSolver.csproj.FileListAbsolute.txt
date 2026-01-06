@@ -1,0 +1,15 @@
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGeoSolver.exe
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGeoSolver.deps.json
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGeoSolver.runtimeconfig.json
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGeoSolver.dll
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGeoSolver.pdb
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.AssemblyInfoInputs.cache
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.AssemblyInfo.cs
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.csproj.CoreCompileInputs.cache
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.sourcelink.json
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.dll
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\refint\VerifyGeoSolver.dll
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.pdb
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGeoSolver.genruntimeconfig.cache
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\ref\VerifyGeoSolver.dll

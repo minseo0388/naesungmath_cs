@@ -1,0 +1,15 @@
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAPSolver.exe
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAPSolver.deps.json
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAPSolver.runtimeconfig.json
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAPSolver.dll
+D:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyAPSolver.pdb
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.AssemblyInfoInputs.cache
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.AssemblyInfo.cs
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.csproj.CoreCompileInputs.cache
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.sourcelink.json
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.dll
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\refint\VerifyAPSolver.dll
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.pdb
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyAPSolver.genruntimeconfig.cache
+D:\코딩\naesungmath\cs\obj\Debug\net9.0\ref\VerifyAPSolver.dll

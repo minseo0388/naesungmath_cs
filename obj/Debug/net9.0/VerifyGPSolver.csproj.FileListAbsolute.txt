@@ -1,0 +1,15 @@
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGPSolver.exe
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGPSolver.deps.json
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGPSolver.runtimeconfig.json
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGPSolver.dll
+d:\코딩\naesungmath\cs\bin\Debug\net9.0\VerifyGPSolver.pdb
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.GeneratedMSBuildEditorConfig.editorconfig
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.AssemblyInfoInputs.cache
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.AssemblyInfo.cs
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.csproj.CoreCompileInputs.cache
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.sourcelink.json
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.dll
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\refint\VerifyGPSolver.dll
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.pdb
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\VerifyGPSolver.genruntimeconfig.cache
+d:\코딩\naesungmath\cs\obj\Debug\net9.0\ref\VerifyGPSolver.dll
