@@ -18,32 +18,30 @@ namespace NaesungMath.Formulas
             bool changed = true;
             int loopCount = 0;
             
-            bool IsDef(double? v) => v.HasValue;
-
             while (changed && loopCount < 5)
             {
                 changed = false;
 
-                if (!IsDef(an) && IsDef(a) && IsDef(n) && IsDef(d))
+                if (an == null && a != null && n != null && d != null)
                 {
                     an = a.Value + (n.Value - 1) * d.Value;
                     changed = true;
                 }
 
-                if (!IsDef(s) && IsDef(n) && IsDef(a) && IsDef(an))
+                if (s == null && n != null && a != null && an != null)
                 {
                     s = n.Value * (a.Value + an.Value) / 2;
                     changed = true;
                 }
 
-                if (!IsDef(s) && IsDef(n) && IsDef(a) && IsDef(d))
+                if (s == null && n != null && a != null && d != null)
                 {
                     s = n.Value * (2 * a.Value + (n.Value - 1) * d.Value) / 2;
                     changed = true;
                 }
                 
                 // Inverses
-                if (!IsDef(a) && IsDef(an) && IsDef(n) && IsDef(d))
+                if (a == null && an != null && n != null && d != null)
                 {
                     a = an.Value - (n.Value - 1) * d.Value;
                     changed = true;

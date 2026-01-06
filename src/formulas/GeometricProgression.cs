@@ -19,20 +19,17 @@ namespace NaesungMath.Formulas
             bool changed = true;
             int loopCount = 0;
 
-            // Helper to check if value has value
-            bool IsDef(double? v) => v.HasValue;
-
             while (changed && loopCount < 5)
             {
                 changed = false;
 
-                if (!IsDef(an) && IsDef(a) && IsDef(r) && IsDef(n))
+                if (an == null && a != null && r != null && n != null)
                 {
                     an = a.Value * Math.Pow(r.Value, n.Value);
                     changed = true;
                 }
 
-                if (!IsDef(s) && IsDef(a) && IsDef(r) && IsDef(n))
+                if (s == null && a != null && r != null && n != null)
                 {
                     if (r.Value != 1)
                     {
@@ -41,7 +38,7 @@ namespace NaesungMath.Formulas
                     }
                 }
 
-                if (!IsDef(infinitySum) && IsDef(a) && IsDef(r))
+                if (infinitySum == null && a != null && r != null)
                 {
                     if (r.Value > -1 && r.Value < 1)
                     {
@@ -51,7 +48,7 @@ namespace NaesungMath.Formulas
                 }
                 
                 // Inverse a
-                if (!IsDef(a) && IsDef(an) && IsDef(r) && IsDef(n))
+                if (a == null && an != null && r != null && n != null)
                 {
                     a = an.Value / Math.Pow(r.Value, n.Value);
                     changed = true;
