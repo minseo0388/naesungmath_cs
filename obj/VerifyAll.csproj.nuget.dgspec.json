@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\코딩\\naesungmath\\cs\\VerifyAll.csproj": {}
+    "D:\\코딩\\naesungmath\\cs\\VerifyAll.csproj": {}
   },
   "projects": {
-    "d:\\코딩\\naesungmath\\cs\\VerifyAll.csproj": {
+    "D:\\코딩\\naesungmath\\cs\\VerifyAll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\코딩\\naesungmath\\cs\\VerifyAll.csproj",
+        "projectUniqueName": "D:\\코딩\\naesungmath\\cs\\VerifyAll.csproj",
         "projectName": "VerifyAll",
-        "projectPath": "d:\\코딩\\naesungmath\\cs\\VerifyAll.csproj",
+        "projectPath": "D:\\코딩\\naesungmath\\cs\\VerifyAll.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\코딩\\naesungmath\\cs\\obj\\",
+        "outputPath": "D:\\코딩\\naesungmath\\cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
