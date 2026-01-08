@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>3.1.0</Version>
+    <PackageId>NaesungMath</PackageId>
+    <Title>NaesungMath</Title>
+    <Authors>Choi Minseo</Authors>
+    <Description>Science is Magic! Let's memorize spells &lt;Math Formula&gt;</Description>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/minseo0388/naesungmath</RepositoryUrl>
+    <PackageTags>math;formula;science</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

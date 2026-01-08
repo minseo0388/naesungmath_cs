@@ -1,5 +1,7 @@
 # Naesungmath
 
+[![NuGet](https://img.shields.io/nuget/v/NaesungMath.svg)](https://www.nuget.org/packages/NaesungMath/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![install size](https://packagephobia.com/badge?p=naesungmath@3.1.0)](https://packagephobia.com/result?p=naesungmath@3.1.0)
 
 

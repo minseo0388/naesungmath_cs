@@ -1,2 +1,2 @@
-using NaesungMath.CS.Formulas;
+using NaesungMath.Formulas;
 using static NaesungMath.CS.VersionInfo;
